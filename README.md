@@ -11,7 +11,7 @@ This is the **backend server** for a LeetCode-style coding platform. It provides
 - ✅ User Registration & Login (JWT-based)
 - ✅ Create, Read, Update, Delete (CRUD) for Coding Problems
 - ✅ Code Submission & Evaluation
-- ✅ Real-time Code Execution (via Docker or in-memory sandboxes)
+- ✅ Real-time Code Execution (via Judge0 or in-memory sandboxes)
 - ✅ Submission History & Status
 - ✅ Modular MVC Architecture
 - ✅ MongoDB for data persistence
